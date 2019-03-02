@@ -5,7 +5,7 @@ This tool utilises the new **Spring'13 Tooling API** and the **Canvas** technolo
 
 ![Screenshot](http://andrewfawcett.files.wordpress.com/2013/02/apexanalysis.png)
 
-For more information see my blog entry [Spring'13 Clean Apex Code with the Tooling API](http://andrewfawcett.wordpress.com/2013/02/02/spring13-clean-apex-code-with-the-tooling-api).
+For more information see my blog entry [Spring'13 Clean Apex Code with the Tooling API](https://andyinthecloud.com/2013/02/02/spring-cleaning-apex-code-with-the-tooling-api/).
 
 Generating the Tooling API Client Proxies (with JAX-WS) and Maven
 -----------------------------------------------------------------
